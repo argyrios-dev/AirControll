@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>AirControll</string>
+    <key>CFBundleExecutable</key>
+    <string>AirControll</string>
+    <key>CFBundleIconFile</key>
+    <string>AirControllIcon.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.aircontroll.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>AirControll</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.5</string>
+    <key>CFBundleVersion</key>
+    <string>15</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSCameraUsageDescription</key>
+    <string>AirControll uses the camera to recognize hand gestures locally on this Mac. Frames remain in memory and are never saved.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>AirControll uses Apple Events only to control local media applications when you map a gesture to a media action.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 Argyrios.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+</dict>
+</plist>
