@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Website
+docs/** linguist-documentation
+*.html linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation
+
+# Documentation
+*.md linguist-documentation
+
+# Build and maintenance scripts
+*.sh linguist-generated
+
+# GitHub configuration
+.github/** linguist-generated
+
+# Ignore licenses in language statistics
+LICENSE linguist-documentation
+SECURITY.md linguist-documentation
