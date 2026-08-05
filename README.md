@@ -39,6 +39,10 @@ AirControll is a native macOS application that lets you control media playback, 
   <img src="Screenshot-Privacy.png" alt="Privacy" width="100%">
 </p>
 
+<p align="center">
+  <img src="Screenshot-Advanced.png" alt="Advanced" width="100%">
+</p>
+
 ---
 
 AirControll transforms your camera into a completely local gesture recognition system that allows you to interact with macOS naturally without touching the keyboard or trackpad.
